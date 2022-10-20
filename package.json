@@ -1,0 +1,16 @@
+{
+"name": "rg888",
+"theme": "rg888",
+"version": "7.1.3",
+"description": "rg888 ทางเข้าเว็บไซต์พนันเว็บตรง คนเล่นเยอะ ให้เงินเครดิตฟรี",
+"keywords": [
+"rg888",
+"rg888 เครดิตฟรี",
+"rg888 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/rg888",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
